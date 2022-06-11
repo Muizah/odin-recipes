@@ -1,0 +1,18 @@
+body {
+  background-color: #cee1e4;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #554c4c;
+}
+
+h1 {
+  text-align: center;
+}
+
+a {
+  color: #615353;
+}
+
+.img {
+  display: flex;
+  justify-content: center;
+}
